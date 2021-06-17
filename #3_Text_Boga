@@ -1,0 +1,3 @@
+"Discrimination" in Baayen(2015) by Bella Boga
+
+The section „Discrimination“ deals with learning theory and activation which are the basis for the naive discriminative learning model. The learning theory takes the cues and outcomes and uses it in discrimination whereas activation is when we try to link the cues to the outcomes. There is different activation weights depending on the different nodes you have. So discrimination basically means that by experience you can discriminate outcomes by given cues. But in order to be able to discriminate you should make the activation work

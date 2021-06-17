@@ -1,0 +1,57 @@
+– To what extent is the used corpus representative for language
+production? Scrutinize the corpus set up!
+
+>>Not really representative, as the set up 
+>>was pretty 
+>>artificial("Disfluencies
+>>and mispronunciations were avoided by 
+>>requiring speakers to
+>>repeat errorful utterances"(Aylett,3051))
+
+
+– Aylett and Turk excluded vowels from their analysis. What effects
+could this have on the results and interpretation?
+
+>>This could have led to inaccuracies in the 
+>>interpretation of the scrutinised data. 
+
+
+– Search for an article regarding the relation between vowel duration
+and vowel frequency! How does this relate to the present results?
+
+– What are unigrams, bigrams and trigrams?
+
+>>Unigrams, bigrams and trigrams are the 
+>>likelihood of a syllable without context
+>>(unigram), given the previous syllable
+>>(bigram) and given the previous two syllables
+>>(trigrams).
+>>A log transformation was applied to
+>>these likelihoods in order to relate the 
+>>values more closely to
+>>information content ͑Pierce, 1961͒ and to 
+>>normalize the dis-
+>>tributions. In order to calculate these 
+>>likelihoods, the CMU
+>>language toolkit ͑Clarkson and Rosenfeld, >>1997͒ was used to
+>>compute n-gram statistics based on the 
+>>syllabic transcriptions
+>>of 187 million words found in news resources 
+>>on the Inter-
+>>net. Transcriptions were automatically 
+>>generated using the
+>>Rhetorical Systems speech synthesizer.
+>>(Aylett,3051)
+
+– How could you calculate probability given the context?
+
+>> I don't really understand the question...
+
+– What problems could there be with the authors assessment of phrasal
+stress and phrasal boundaries for their prosodic model?
+
+>>They didn't take several distinctions into 
+>>account, such as accent type, boundary tone 
+>>type, phrase type and distinctions between 
+>>unstressed syllables and those that could
+>>bear secondary lexical stress.
